@@ -1,7 +1,7 @@
 # 👋 Hy, I'm Alexandre Cardim - A Passionate Programmer
 
-> “I’m a developer with experience in Java, Python, C, and Vercel”  
-> “My goal is to create problem-solving ecosystems that help people all across the world”
+> I’m a developer with experience in Java, Python, C, and Vercel
+> My goal is to create problem-solving ecosystems that help people all across the world
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
